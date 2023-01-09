@@ -84,3 +84,4 @@ php artisan serve
 ```
 
 -   And go to http://localhost:8000/
+# STATIS
